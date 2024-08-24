@@ -1,0 +1,3 @@
+2024-08-24 10:42:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_ENTITY" not found; SQL statement:
+INSERT INTO "USER_ENTITY" ("EMAIL", "PASSWORD", "USERNAME") VALUES (?, ?, ?) [42102-214]
